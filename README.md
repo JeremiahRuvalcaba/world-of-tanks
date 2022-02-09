@@ -1,10 +1,4 @@
-# csc413-tankgame
 
-
-| Student Information |                |
-|:-------------------:|----------------|
-|  Student Name       |   Name Here    |
-|  Student Email      |   Email Here   |
 
 ## src Folder Purpose 
 src folder is to be used to store source code only.
